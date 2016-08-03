@@ -1,13 +1,29 @@
 *{
-	margin: 0;		
+	margin: 0;	
+	font-family:"Oswald";
 }
 .content {
-	background-color: red;
 	width: 100%;
 	height: 500px;
 	margin: 0;
 	background-image: url(../images/background.jpg);
 	background-repeat: no-repeat;
     background-size: 100% 500px;
-
+}
+nav a{
+	text-decoration: none;
+	position: relative;
+	left: 45%;
+	padding: 10px;
+	color: #000;
+}
+.logo{
+	position: relative;
+	left: 45%;
+}
+.michi{
+	height: 50px;
+}
+#letra{
+	text-align: center;
 }
