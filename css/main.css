@@ -17,13 +17,16 @@ nav a{
 	padding: 10px;
 	color: #000;
 }
-.logo{
-	position: relative;
-	left: 45%;
-}
 .michi{
 	height: 50px;
+	position: relative;
+	left: 47%;
+	padding: 20px;
 }
-#letra{
+#kiri {
+	font-size: 35px;
+}
+h2 {
 	text-align: center;
+	color: #fff;
 }
