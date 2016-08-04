@@ -2,6 +2,10 @@
 	margin: 0;	
 	font-family:"Oswald";
 }
+h2 {
+	text-align: center;
+	color: #fff;
+}
 .content {
 	width: 100%;
 	height: 500px;
@@ -20,13 +24,58 @@ nav a{
 .michi{
 	height: 50px;
 	position: relative;
-	left: 47%;
+	left: 45%;
 	padding: 20px;
 }
 #kiri {
 	font-size: 35px;
 }
-h2 {
+#about{
 	text-align: center;
-	color: #fff;
+	padding:10px;
+	padding-bottom:20px;
+	color: purple;
+
+}
+.tile{
+	width: 100%;
+	height:350px;
+	margin:0;
+	background-image: url(../images/tile1.png);
+}
+.foto {
+	width: 200px;
+	float:left;
+	padding: 5px;
+	margin: 10px;
+	border: 1px solid black;
+}
+.profile{
+	width: 900px;
+	height: 300px;
+	position: relative;
+	left:50px;
+	
+
+}
+.grid{
+
+width: 1024px;
+}
+.kitten{
+	border-radius: 50%;
+	width: 200px;
+	border: 2px solid purple;
+	padding: 5px;
+}
+.tile2{
+	width: 100%;
+	height:350px;
+	margin:0;
+	background-image: url(../images/tile2.png);
+}
+#redes{
+	position: relative;
+	left:90px;
+	margin-top: 20px;
 }
