@@ -48,14 +48,16 @@ nav a{
 	float:left;
 	padding: 5px;
 	margin: 10px;
+	margin-top: 50px;
 	border: 1px solid black;
 }
+
+/*cajita de texto*/
 .profile{
 	width: 900px;
 	height: 300px;
 	position: relative;
 	left:50px;
-	
 
 }
 .grid{
